@@ -44,7 +44,7 @@ To help you, I highly suggest you test a few numbers, and do it "manually" as a 
 public static boolean isPrime(int N)
 {
   if (N == 1)
-  {
+  {int i 
     return false;
   }
 
